@@ -1,0 +1,21 @@
+{
+	"user": "KoTDusic",
+	"repo": "KoTDusic",
+	"entry": "new.pwn",
+	"output": "new.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"Southclaws/pawn-requests",
+		"BigETI/pawn-map"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"echo": "-",
+		"rcon_password": "123",
+		"port": 7777,
+		"hostname": "SA-MP Server",
+		"maxplayers": 50,
+		"language": ""
+	}
+}
